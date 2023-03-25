@@ -103,6 +103,13 @@ const Redirect = () => {
               tab4();
             }}
           >
+            Open paly 4
+          </button>{" "}
+          <button
+            onClick={() => {
+              tab5();
+            }}
+          >
             Open paly 5
           </button>{" "}
           <button
